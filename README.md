@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
 <h3 align="center">A passionate application developer from India</h3>
-[![MasterHead](https://in.pinterest.com/pin/366691594676038945)]
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/366691594676038945/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh0617&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh0617" /> </p>
 
 - 🔭 I’m currently working on **Stars Signatures**
