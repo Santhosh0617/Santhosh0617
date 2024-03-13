@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!--#![MasterHead](https://www.shutterstock.com/image-vector/devops-banner-web-icon-vector-illustration-2129690570)-->
 <h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
 <h3 align="center">A passionate application developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
